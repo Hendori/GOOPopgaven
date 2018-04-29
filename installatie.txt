@@ -1,0 +1,11 @@
+Open Eclipse in een workspace naar keuze
+
+Kies File - Import... - General - Existing Projects into Workspace
+
+Selecteer deze map als root directory
+
+[De lijst met projecten wordt als het goed is nu gevuld]
+
+Optioneel: Vink "Copy projects into workspace"
+
+Finish
